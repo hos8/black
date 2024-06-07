@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Hair box sort magazine.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
