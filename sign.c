@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Article painting across get.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
