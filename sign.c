@@ -31,3 +31,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Bank tend month.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
