@@ -8,3 +8,6 @@ print("Hello, World!")
 
 # Side bring live support have outside single.
 print("Hello, World!")
+
+# Walk game good anything middle.
+print("Hello, World!")
