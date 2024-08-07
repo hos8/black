@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Hard data instead hot.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
